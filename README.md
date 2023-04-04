@@ -1,4 +1,4 @@
-## OLá
+## OLá, bem vind@s!
 este perfil é especialmente para a Jornada DEV da EBAC. 
 
 #### Sobre a Talita
