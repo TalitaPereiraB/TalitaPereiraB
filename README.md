@@ -1,4 +1,4 @@
-https://img.shields.io/static/v1?label=<Olá>&message=<Bem_vind@s>&color=<red>
+https://img.shields.io/static/v1?Olá=<LABEL>&.=<MESSAGE>&red=<COLOR>
 este perfil é especialmente para a Jornada DEV da EBAC. 
 
 ##### Sobre a Talita
